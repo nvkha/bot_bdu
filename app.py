@@ -46,6 +46,8 @@ def webhook_handle():
         message = data['message']
         sender_id = data['sender']['id']
         # Check if student in database 
+    else:
+        send_mess(sender_id, "Xin lỗi bạn, tôi chỉ được thiết lập chấp nhận tin nhắn văn bản")
     student = db.execute('SELECT * FROM users WHERE id=?', sender_id)
     if not student:
         db.execute("INSERT INTO users(id) VALUES(?)", sender_id)
