@@ -41,13 +41,10 @@ def webhook_handle():
         "tuần này học gì", "tuần này học gì nhỉ", "tuần này học gì ku"]
     
     data = request.get_json()
-    event_name = data['event_name']
-    if event_name == 'user_send_text':
-        message = data['message']
-        sender_id = data['sender']['id']
-        # Check if student in database 
-    else:
-        send_mess(sender_id, "Xin lỗi bạn, tôi chỉ được thiết lập chấp nhận tin nhắn văn bản")
+   
+    message = data['message']
+    sender_id = data['sender']['id']
+    # Check if student in database 
     student = db.execute('SELECT * FROM users WHERE id=?', sender_id)
     if not student:
         db.execute("INSERT INTO users(id) VALUES(?)", sender_id)
