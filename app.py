@@ -41,12 +41,13 @@ def webhook_handle():
         "tuần này học gì", "tuần này học gì nhỉ", "tuần này học gì ku"]
     
     data = request.get_json()
-    print(data)
-    '''
-    message = data['message']
-    sender_id = data['sender']['id']
-    
-    # Check if student in database 
+    event_name = data['event_name']
+    if event_name == 'user_send_text':
+        message = data['message']
+        sender_id = data['sender']['id']
+        # Check if student in database 
+    else:
+        send_mess(sender_id, "Xin lỗi bạn, tôi chỉ được thiết lập chấp nhận tin nhắn văn bản")
     student = db.execute('SELECT * FROM users WHERE id=?', sender_id)
     if not student:
         db.execute("INSERT INTO users(id) VALUES(?)", sender_id)
@@ -129,7 +130,7 @@ def webhook_handle():
         send_mess(sender_id, "Bây giờ bạn có thể hỏi mình một số thông tin về lịch học rồi đó ^_^")
     else:
         send_mess(sender_id, "Xin lỗi mình không đủ thông minh để hiểu đước ý của bạn !")
-    '''
+
     return 'ok'
     
     
