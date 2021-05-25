@@ -183,6 +183,18 @@ def regex_date(msg, timezone="Asia/Ho_Chi_Minh"):
     else:
         return dateparser.parse(date_str[0], date_formats=['%d-%m-%Y'])
 
+
+def send_mess(sender_id, text):
+    request_body = {
+            'recipient': {
+            'id': sender_id
+        },
+            'message': {"text":text}
+        }
+    response = requests.post('https://graph.facebook.com/v5.0/me/messages?access_token='+"EAAwf2Q5L720BAImVo7o4NBMS6YDeOlfNRwzvatMX5TUOaVazc8yJ5nekzmvj0cQfI0R1RDyqQ0BKzRmQI8ZAEARAu0On5Evkuc4rcZBMSaQcfyfOMPQv6BVRr7ZCUXw2tu0jm5zHqbKE1Kdd8HKZCR6Nva8QQagJndT0Fn7KwgZDZD",json=request_body).json()
+    return response
+
+
 def get_schedule(sender_id, class_name, date=None, week_number=None):       
         dayOfWeek = ["Thứ 2", "Thứ 2", "Thứ 3", "Thứ 4", "Thứ 5", "Thứ 6", "Thứ 7", "Chủ Nhật"]
         schedule = []
@@ -229,20 +241,3 @@ def get_schedule(sender_id, class_name, date=None, week_number=None):
             send_mess(sender_id, "Xin lỗi mình không tìm được lịch học của bạn")
         
 
-
-
-def send_mess(sender_id, text):
-    request_body = {
-            'recipient': {
-            'id': sender_id
-        },
-            'message': {"text":text}
-        }
-    response = requests.post('https://graph.facebook.com/v5.0/me/messages?access_token='+"EAAwf2Q5L720BAImVo7o4NBMS6YDeOlfNRwzvatMX5TUOaVazc8yJ5nekzmvj0cQfI0R1RDyqQ0BKzRmQI8ZAEARAu0On5Evkuc4rcZBMSaQcfyfOMPQv6BVRr7ZCUXw2tu0jm5zHqbKE1Kdd8HKZCR6Nva8QQagJndT0Fn7KwgZDZD",json=request_body).json()
-    return response
-
-
-
-
-                         
-                    
