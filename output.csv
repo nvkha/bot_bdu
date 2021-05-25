@@ -1,0 +1,159 @@
+STT,Thứ,Ngày,Giờ,Số tiết,Phòng,SL,CBGD,Mã MH,Tên môn,Nhóm,Lớp
+STT,Th?,Ngy,Gi?,,Phng,SL,CBGD,,M MH,Tn mn,Nhm,,L?p
+"",,,,ti?t,,,,,,,,,
+1,Th 2,21/09/2020,7h00,3,A09,42,ng Thi Minh,Thu,ACT0192,S s ?ch k to ?n,01,20KT0101,
+2,Th 2,21/09/2020,7h00,3,A11,16,Trn Nguyt Th ?i,Chu,ENG1093,Translation Project,01,20AV0101,
+3,Th 2,21/09/2020,7h00,3,A32,55,Trn Thanh,Nh?n,ACT0072,K to ?n t?i chnh 2,01,22KT0101; 22TC0101,
+4,Th 2,21/09/2020,7h00,5,A33,30,Qu ?ch Trung,Phong,PHA0193,Ha dc 1,01,21DH0101,
+5,Th 2,21/09/2020,7h00,3,A34,44,Nguyn Th Xun,Ti,ENG0994,Anh v ?n c bn 5,02,21KT0101,
+6,Th 2,21/09/2020,7h00,5,A35,42,V ?n Bo,Quc,LAW0462,Tr ?ch nhim hnh s v? hnh ph1t,01,21LK0101; 22LK0101,
+"",,,,,,,,,,Di tch lch s v ?n ha v? danh th3?4ng,,,
+7,Th 2,21/09/2020,7h00,3,R04,14,La Mng,Linh,VIE0613,,01,21VN0101,
+"",,,,,,,,,,VN,,,
+8,Th 2,21/09/2020,7h00,3,R05,10,Lit Tho1i Phng,Lan,ENG0293,Listening & speaking 2,01,21AV0101,
+"",,,,,,,,,,,,21TC0101; 21TH0101;,
+9,Th 2,21/09/2020,13h00,3,A32,49,Chiam 1t,Vinh,ENG0994,Anh v ?n c bn 5,05,,
+"",,,,,,,,,,,,21XD0101,
+10,Th 2,21/09/2020,13h00,5,A35,42,V ?n Bo,Quc,LAW0462,Tr ?ch nhim hnh s v? hnh ph1t,01,21LK0101; 22LK0101,
+11,Th 2,21/09/2020,18h00,3,A09,41,La Mng,Linh,SKI0021,KN L tn - Kh ?nh tit - Giao tip,01,Nhm 1,
+12,Th 2,21/09/2020,19h00,2,NTD,40,Nguyn Ngc,Ph,SKI0071,KN V thut t v,01,Nhm 1,
+13,Th 3,22/09/2020,7h00,3,A09,20,Lit Tho1i Phng,Lan,ENG1043,Reading and writing 2,02,22AV0101,
+14,Th 3,22/09/2020,7h00,3,A10,38,Nguyn V ?n,M1nh,BSC0072,Logic hc 1i cng,01,21LK0101; 22LK0101,
+"",,,,,,,,,,,,21KT0101; 21QT0101;,
+15,Th 3,22/09/2020,7h00,5,A31,98,Nguyn Phng,Tm,FIB0182,Nguyan l thng ka,01,,
+"",,,,,,,,,,,,21TC0101,
+16,Th 3,22/09/2020,7h00,3,A32,31,Lm Xun,Tho,CHN0012,Hoa v ?n s cp 1,04,22TC0101; 22TH0101,
+17,Th 3,22/09/2020,7h00,5,A33,45,Hunh V ?n,Th1ch,ACT0092,K to ?n t?i chnh 4,01,20KT0101,
+18,Th 3,22/09/2020,7h00,3,A34,77,ng Thi Minh,Thu,ECO0034,K to ?n qun tr 1,01,22KT0101; 22QT0101,
+19,Th 3,22/09/2020,7h00,5,A35,30,Qu ?ch Trung,Phong,PHA0193,Ha dc 1,01,21DH0101,
+20,Th 3,22/09/2020,7h00,5,PM1,44,Nguyn nh,Hin,INF0654,Kin trc phn mm,01,20TH0101; 21TH0101,
+STT,Th?,Ngy,Gi?,"S?
+ti?t",Phng,SL,CBGD,M MH,Tn mn,Nhm,L?p
+21,Th 3,22/09/2020,7h00,3,R04,14,La MngLinh,VIE0613,"Di tch lch s v ?n ha v? danh th3?4ng
+VN",01,21VN0101
+22,Th 3,22/09/2020,7h00,3,R05,10,Trn Nguyt Th ?iChu,ENG0533,Translation 2,01,21AV0101
+23,Th 3,22/09/2020,13h00,5,A31,54,Nguyn PhngTm,ECO0072,Kinh t ph ?t trin,01,21QT0101; 21TC0101
+24,Th 3,22/09/2020,13h00,3,A32,69,Nguyn Th ThanhThy,ECO0012,"?m ph ?n v? giao tip trong kinh
+doanh",01,"22AV0101; 22QT0101;
+22TC0101"
+25,Th 3,22/09/2020,13h00,5,A33,42,Hunh V ?nTh1ch,ACT0102,K to ?n thu v? BCTC,01,20KT0101; 21KT0101
+26,Th 3,22/09/2020,13h00,5,PM1,44,Nguyn nhHin,INF0654,Kin trc phn mm,01,20TH0101; 21TH0101
+27,Th 3,22/09/2020,18h00,3,A21,40,Nguyn Th ThanhThy,SKI0021,KN L tn - Kh ?nh tit - Giao tip,02,Nhm 2
+28,Th 3,22/09/2020,18h00,3,PM1,40,Nguyn V ?nM1nh,SKI0031,KN Vit v? so1n tho VB - PVXV,01,Nhm 1
+29,Th 3,22/09/2020,18h00,2,SANH,40,T1 Ngc?o,SKI0041,KN Khiau v,01,Nhm 1
+30,Th 4,23/09/2020,7h00,5,A09,9,Nguyn NgcTho,CIV0583,Thi cng I,01,20XD0101
+31,Th 4,23/09/2020,7h00,5,A32,91,Phan Thi ThyUyan,ECO0063,Kinh t v m,02,"22KT0101; 22QT0101;
+22TC0101"
+32,Th 4,23/09/2020,7h00,5,A33,45,Hunh V ?nTh1ch,ACT0092,K to ?n t?i chnh 4,01,20KT0101
+33,Th 4,23/09/2020,7h00,3,A34,24,Nguyn RBe,BSC0012,1i cng lch s  Vit Nam,01,21LK0101
+34,Th 4,23/09/2020,7h00,3,NTD,39,Ho?ng Th ThanhThy,PHE0261,Gi ?o dc th cht 2 (*),01,22AV0101; 22TH0101
+35,Th 4,23/09/2020,7h00,5,PM1,44,Nguyn nhHin,INF0654,Kin trc phn mm,01,20TH0101; 21TH0101
+36,Th 4,23/09/2020,7h00,5,R04,14,Ph1m Trn QuangHng,VIE0622,Du lch v ?n ha,01,21VN0101
+37,Th 4,23/09/2020,13h00,5,A09,13,Nguyn NgcTho,CIV0592,Thi cng II,01,20XD0101
+38,Th 4,23/09/2020,13h00,5,A32,89,Phan Thi ThyUyan,ECO0113,Marketing c ?n bn,02,"22KT0101; 22QT0101;
+22TC0101"
+39,Th 4,23/09/2020,13h00,5,A33,42,Hunh V ?nTh1ch,ACT0102,K to ?n thu v? BCTC,01,20KT0101; 21KT0101
+40,Th 4,23/09/2020,13h00,5,PM1,44,Nguyn nhHin,INF0654,Kin trc phn mm,01,20TH0101; 21TH0101
+41,Th 4,23/09/2020,13h00,5,R04,14,Ph1m Trn QuangHng,VIE0633,"Du lch sinh th ?i v? ph ?t trin bn
+vng",01,21VN0101
+42,Th 4,23/09/2020,13h00,5,R06,7, Thi Ho?iGiang,FIB0023,Anh v ?n chuyan ng?nh 2,01,20TC0101
+43,Th 4,23/09/2020,13h00,5,TH,0,V DuyThanh,PHA0113,K sinh,01,21DH0101
+44,Th 4,23/09/2020,18h00,3,A09,41,La MngLinh,SKI0021,KN L tn - Kh ?nh tit - Giao tip,01,Nhm 1
+45,Th 4,23/09/2020,19h00,2,NTD,40,Nguyn NgcPh,SKI0071,KN V thut t v,01,Nhm 1
+46,Th 5,24/09/2020,7h00,3,A09,42,Trn ThanhNh?n,ACT0132,Kim to ?n 2,01,20KT0101
+STT,Th?,Ngy,Gi?,"S?
+ti?t",Phng,SL,CBGD,M MH,Tn mn,Nhm,L?p
+47,Th 5,24/09/2020,7h00,5,A11,16,Hng MTrinh,ENG0855,Hoa v ?n 6,01,20AV0101
+48,Th 5,24/09/2020,7h00,3,A10,45,Lm XunTho,CHN0022,Hoa v ?n s cp 2,01,21QT0101
+49,Th 5,24/09/2020,7h00,5,A32,91,Phan Thi ThyUyan,ECO0063,Kinh t v m,02,"22KT0101; 22QT0101;
+22TC0101"
+50,Th 5,24/09/2020,7h00,3,A33,49,Chiam 1tVinh,ENG0994,Anh v ?n c bn 5,05,"21TC0101; 21TH0101;
+21XD0101"
+51,Th 5,24/09/2020,7h00,3,A34,44,Nguyn Th XunTi,ENG0994,Anh v ?n c bn 5,02,21KT0101
+52,Th 5,24/09/2020,7h00,3,NTD,39,Ho?ng Th ThanhThy,PHE0261,Gi ?o dc th cht 2 (*),01,22AV0101; 22TH0101
+53,Th 5,24/09/2020,7h00,5,R04,14,Ph1m Trn QuangHng,VIE0622,Du lch v ?n ha,01,21VN0101
+54,Th 5,24/09/2020,7h00,5,R05,13,Nguyn NgcTho,CIV0592,Thi cng II,01,20XD0101
+55,Th 5,24/09/2020,7h00,5,R07,7, Thi Ho?iGiang,FIB0023,Anh v ?n chuyan ng?nh 2,01,20TC0101
+56,Th 5,24/09/2020,13h00,5,A09,13,Nguyn NgcTho,CIV0592,Thi cng II,01,20XD0101
+57,Th 5,24/09/2020,13h00,5,A11,20,Hng MTrinh,ENG0184,Hoa v ?n 2,01,22AV0101
+58,Th 5,24/09/2020,13h00,5,A32,89,Phan Thi ThyUyan,ECO0113,Marketing c ?n bn,02,"22KT0101; 22QT0101;
+22TC0101"
+59,Th 5,24/09/2020,13h00,5,R04,14,Ph1m Trn QuangHng,VIE0633,"Du lch sinh th ?i v? ph ?t trin bn
+vng",01,21VN0101
+60,Th 5,24/09/2020,13h00,5,R07,7, Thi Ho?iGiang,FIB0023,Anh v ?n chuyan ng?nh 2,01,20TC0101
+61,Th 5,24/09/2020,13h00,5,TH,0,V DuyThanh,PHA0113,K sinh,01,21DH0101
+62,Th 5,24/09/2020,18h00,3,A21,40,Nguyn Th ThanhThy,SKI0021,KN L tn - Kh ?nh tit - Giao tip,02,Nhm 2
+63,Th 5,24/09/2020,18h00,3,PM1,40,Nguyn V ?nM1nh,SKI0031,KN Vit v? so1n tho VB - PVXV,01,Nhm 1
+64,Th 5,24/09/2020,18h00,2,SANH,40,T1 Ngc?o,SKI0041,KN Khiau v,01,Nhm 1
+65,Th 6,25/09/2020,7h00,5,A09,10,Nguyn TinHuy,ENG1084,Advanced Language Studies 1,01,21AV0101
+66,Th 6,25/09/2020,7h00,5,A11,16,Hng MTrinh,ENG0855,Hoa v ?n 6,01,20AV0101
+67,Th 6,25/09/2020,7h00,3,A10,42,ng Thi MinhThu,BUS0442,K to ?n qun tr 2,01,20KT0101
+68,Th 6,25/09/2020,7h00,5,A32,91,Phan Thi ThyUyan,ECO0063,Kinh t v m,02,"22KT0101; 22QT0101;
+22TC0101"
+69,Th 6,25/09/2020,7h00,5,A34,49,Nguyn ChiKhang,LAW0352,Ph ?p lut v kinh doanh bt ng sn,01,20LK0101
+70,Th 6,25/09/2020,7h00,3,A35,45,Lm XunTho,CHN0022,Hoa v ?n s cp 2,01,21QT0101
+71,Th 6,25/09/2020,7h00,5,PM1,18,Trn SnHi,INF0883,M1ng m ?y tnh v? H iu h?nh,01,22TH0101
+72,Th 6,25/09/2020,7h00,5,R04,14,Ph1m Trn QuangHng,VIE0622,Du lch v ?n ha,01,21VN0101
+STT,Th?,Ngy,Gi?,"S?
+ti?t",Phng,SL,CBGD,M MH,Tn mn,Nhm,L?p
+73,Th 6,25/09/2020,13h00,5,A09,16,Nguyn TinHuy,ENG0423,Principles of marketing,01,20AV0101
+74,Th 6,25/09/2020,13h00,5,A11,20,Hng MTrinh,ENG0184,Hoa v ?n 2,01,22AV0101
+75,Th 6,25/09/2020,13h00,3,A10,9,Nguyn Th ThanhThy,BUS0242,Qun tr h?nh chnh v ?n phng,01,20TC0101
+76,Th 6,25/09/2020,13h00,5,A32,89,Phan Thi ThyUyan,ECO0113,Marketing c ?n bn,02,"22KT0101; 22QT0101;
+22TC0101"
+77,Th 6,25/09/2020,13h00,5,A34,49,Nguyn ChiKhang,LAW0352,Ph ?p lut v kinh doanh bt ng sn,01,20LK0101
+78,Th 6,25/09/2020,13h00,5,PM1,18,Trn SnHi,INF0883,M1ng m ?y tnh v? H iu h?nh,01,22TH0101
+79,Th 6,25/09/2020,13h00,5,R04,14,Ph1m Trn QuangHng,VIE0633,"Du lch sinh th ?i v? ph ?t trin bn
+vng",01,21VN0101
+80,Th 6,25/09/2020,13h00,3,R06,10,ng QucHi,ENG1043,Reading and writing 2,01,21AV0101
+81,Th 6,25/09/2020,19h00,2,NTD,40,Nguyn NgcPh,SKI0071,KN V thut t v,01,Nhm 1
+82,Th 7,26/09/2020,7h00,5,A09,21,La BnhMinh,ECO0053,Kinh t vi m,01,191QT6111
+83,Th 7,26/09/2020,7h00,5,A10,9,Trnh V ?nThng,CIV0662,Thit k cng trnh dn dng,01,20XD0101
+84,Th 7,26/09/2020,7h00,5,A34,49,Nguyn ChiKhang,LAW0352,Ph ?p lut v kinh doanh bt ng sn,01,20LK0101
+85,Th 7,26/09/2020,7h00,3,A44,97,Nguyn ChThanh,MAT0013,L thuyt x ?c sut v? thng ka to ?n,01,"21KT0101; 21QT0101;
+21TC0101"
+86,Th 7,26/09/2020,7h00,3,NTD,54,T1 Th?nhDng,PHE0271,Gi ?o dc th cht 3 (*),02,22KT0101; 22TC0101
+87,Th 7,26/09/2020,7h00,5,PM1,44,Trn SnHi,INF0464,"Chuyan  o ha v? in to ?n  ?m
+my",01,20TH0101; 21TH0101
+88,Th 7,26/09/2020,7h00,5,PM2,18,"Hunh Nguyn
+Huy
+Kh3?4c",INF0312,Ph ?t trin ng dng m ngun m,01,22TH0101
+89,Th 7,26/09/2020,7h00,5,R04,33,Trn Nguyt Th ?iChu,ENG1393,Basic Interpretation,01,192AV6111
+90,Th 7,26/09/2020,7h00,5,R05,20,T1 Th?nhNam,ENG1493,Advanced Listening,01,22AV0101
+91,Th 7,26/09/2020,7h00,5,R07,10,Nguyn TinHuy,ENG0373,Office skills,01,21AV0101
+92,Th 7,26/09/2020,13h00,5,A09,21,La BnhMinh,ECO0053,Kinh t vi m,01,191QT6111
+93,Th 7,26/09/2020,13h00,5,A11,10,T1 Th?nhNam,ENG1213,English-Speaking Cultures,01,21AV0101
+94,Th 7,26/09/2020,13h00,5,A10,10,Trnh V ?nThng,CIV0042,Ba tng 3,01,20XD0101
+95,Th 7,26/09/2020,13h00,5,A34,49,Nguyn ChiKhang,LAW0352,Ph ?p lut v kinh doanh bt ng sn,01,20LK0101
+96,Th 7,26/09/2020,13h00,3,A44,92,Nguyn ChThanh,MAT0083,To ?n cao cp C2,01,"22KT0101; 22QT0101;
+22TC0101"
+STT,Th?,Ngy,Gi?,"S?
+ti?t",Phng,SL,CBGD,M MH,Tn mn,Nhm,L?p
+97,Th 7,26/09/2020,13h00,5,PM1,44,Trn SnHi,INF0464,"Chuyan  o ha v? in to ?n  ?m
+my",01,20TH0101; 21TH0101
+98,Th 7,26/09/2020,13h00,5,PM2,18,"Hunh Nguyn
+Huy
+Kh3?4c",INF0312,Ph ?t trin ng dng m ngun m,01,22TH0101
+99,Th 7,26/09/2020,13h00,5,R02,14,Vu V ?nHng,VIE0191,K n ?ng s cu,01,21VN0101
+100,Th 7,26/09/2020,13h00,5,R04,33,Trn Nguyt Th ?iChu,ENG1393,Basic Interpretation,01,192AV6111
+101,Th 7,26/09/2020,13h00,5,R07,16,Nguyn TinHuy,ENG1173,Psychology at Work,01,20AV0101
+102,Th 7,26/09/2020,18h00,2,SANH,40,T1 Ngc?o,SKI0041,KN Khiau v,01,Nhm 1
+103,CN,27/09/2020,7h00,5,A09,18,La BnhMinh,FIB0042,Bo him,01,191QT6111
+104,CN,27/09/2020,7h00,5,A10,9,Trnh V ?nThng,CIV0662,Thit k cng trnh dn dng,01,20XD0101
+105,CN,27/09/2020,7h00,5,PM1,44,Trn SnHi,INF0464,"Chuyan  o ha v? in to ?n  ?m
+my",01,20TH0101; 21TH0101
+106,CN,27/09/2020,7h00,5,PM2,18,"Hunh Nguyn
+Huy
+Kh3?4c",INF0312,Ph ?t trin ng dng m ngun m,01,22TH0101
+107,CN,27/09/2020,7h00,5,R04,33,ng QucHi,ENG1453,English for Business 1,01,192AV6111
+108,CN,27/09/2020,7h00,5,R05,30,T1 Th?nhNam,ENG0433,Public speaking,01,21AV0101; 22AV0101
+109,CN,27/09/2020,7h00,5,TH,0,Ng QucHn,PHA0074,Ha sinh,01,21DH0101
+110,CN,27/09/2020,13h00,5,A09,18,La BnhMinh,FIB0042,Bo him,01,191QT6111
+111,CN,27/09/2020,13h00,5,A10,10,Trnh V ?nThng,CIV0042,Ba tng 3,01,20XD0101
+112,CN,27/09/2020,13h00,5,PM1,44,Trn SnHi,INF0464,"Chuyan  o ha v? in to ?n  ?m
+my",01,20TH0101; 21TH0101
+113,CN,27/09/2020,13h00,5,PM2,18,"Hunh Nguyn
+Huy
+Kh3?4c",INF0312,Ph ?t trin ng dng m ngun m,01,22TH0101
+114,CN,27/09/2020,13h00,5,R04,33,ng QucHi,ENG1453,English for Business 1,01,192AV6111
+115,CN,27/09/2020,13h00,5,TH,0,Ng QucHn,PHA0074,Ha sinh,01,21DH0101
